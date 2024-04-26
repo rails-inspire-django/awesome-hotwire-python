@@ -51,4 +51,4 @@ This repository contains useful resources to help you use Hotwire in your Python
 
 ### Projects
 
-* [https://github.com/pypi/warehouse](https://github.com/pypi/warehouse) https://pypi.org/ is using Stimulus as frontend solution
+* [https://github.com/pypi/warehouse](https://github.com/pypi/warehouse) pypi.org is using Stimulus as frontend solution

@@ -14,6 +14,8 @@ This repository contains useful resources to help you use Hotwire in your Python
 
 * [django-turbo-helper](https://github.com/rails-inspire-django/django-turbo-helper) Hotwire/Turbo helpers for Django
 * [django-actioncable](https://github.com/rails-inspire-django/django-actioncable) This package provides Rails Action Cable support to Django Channels.
+* [django-viewcomponent](https://github.com/rails-inspire-django/django-viewcomponent) Build reusable components in Django, inspired by Rails ViewComponent
+* [django-lookbook](https://github.com/rails-inspire-django/django-lookbook) Empower your Django development with this pluggable app for creating a robust component library
 
 ### Projects
 

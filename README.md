@@ -32,6 +32,11 @@ This repository contains useful resources to help you use Hotwire in your Python
 * [Hotwire Django Tutorials](https://tutorial.saashammer.com/) This free tutorial series will help you learn how to use Hotwire in Django, very suitable for beginners.
 * [ebook: The Definitive Guide to Hotwire and Django](https://leanpub.com/hotwire-django)
 
+### Blog Posts
+
+* [Reusable Components in Django with Stimulus and Tailwind CSS - Part 1](https://testdriven.io/blog/django-reusable-components-part-1/)
+* [Reusable Components in Django with Stimulus and Tailwind CSS - Part 2](https://testdriven.io/blog/django-reusable-components-part-2/)
+
 ## Flask
 
 ### Helpers
